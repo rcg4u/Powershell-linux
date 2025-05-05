@@ -55,6 +55,7 @@ By default, Windows restricts the execution of PowerShell scripts for security r
    ```
 
 3. **Set the execution policy to allow scripts:**
+
    ```bash
    Set-ExecutionPolicy RemoteSigned
    ```
